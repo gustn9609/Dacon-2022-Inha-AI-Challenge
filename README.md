@@ -30,12 +30,7 @@ https://dacon.io/competitions/official/235952/talkboard/406675?page=1&dtype=rece
 ```
 
 ## **3. Instructions**
-- 안녕하세요
-- 채워 넣을예정입니다.
-
-
-## **4. Our Framework**
-채워 넣을예정입니다.
+- GRU와 CNN을 활용한 시공간데이터(spatio-temporal data) 예측
 
 
 
